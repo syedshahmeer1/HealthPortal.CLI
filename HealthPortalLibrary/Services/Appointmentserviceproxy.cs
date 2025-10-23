@@ -25,12 +25,11 @@ public class Appointmentserviceproxy
 
     public List<Appointments?> Appointmentss => appointments;
 
-    // Returns null if invalid (outside hours or double-booked)
     public Appointments? AddOrUpdate(Appointments? appt)
     {
         if (appt == null) return null;
 
-        // validate here (proxy-enforced rules)
+       
         if (!WithinBusinessHours(appt.Start, appt.DurationMinutes)) return null;
         if (PhysicianOverlaps(appt.PhysicianId, appt.Start, appt.DurationMinutes, appt.Id)) return null;
 
@@ -49,7 +48,7 @@ public class Appointmentserviceproxy
             appt.Id = ++maxId;
             appointments.Add(appt);
         }
-        // else: updates happen by reference (matches your style)
+       
 
         return appt;
     }
@@ -65,7 +64,7 @@ public class Appointmentserviceproxy
         return toDel;
     }
 
-    // ---- validation helpers (kept inside proxy) ----
+    
     private static bool WithinBusinessHours(DateTime start, int durationMinutes)
     {
         if (start.DayOfWeek < DayOfWeek.Monday || start.DayOfWeek > DayOfWeek.Friday) return false;
@@ -90,3 +89,4 @@ public class Appointmentserviceproxy
         return false;
     }
 }
+
