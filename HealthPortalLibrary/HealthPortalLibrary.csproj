@@ -6,13 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="models/" />
-    <Folder Include="Services/" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="../HealthPortal.CLI/HealthPortal.CLI.csproj" />
-  </ItemGroup>
-
 </Project>

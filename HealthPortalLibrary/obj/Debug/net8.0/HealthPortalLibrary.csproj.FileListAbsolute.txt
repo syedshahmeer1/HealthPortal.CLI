@@ -1,0 +1,12 @@
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/bin/Debug/net8.0/HealthPortalLibrary.deps.json
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/bin/Debug/net8.0/HealthPortalLibrary.dll
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/bin/Debug/net8.0/HealthPortalLibrary.pdb
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.AssemblyInfoInputs.cache
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.AssemblyInfo.cs
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.csproj.CoreCompileInputs.cache
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.sourcelink.json
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.dll
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/refint/HealthPortalLibrary.dll
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/HealthPortalLibrary.pdb
+/Users/shahm/Downloads/HealthPortal.CLI/HealthPortalLibrary/obj/Debug/net8.0/ref/HealthPortalLibrary.dll
